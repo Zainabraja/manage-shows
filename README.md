@@ -10,7 +10,7 @@ You must have Docker Installed on your System !
 
 ## Getting Started
 
-### Run the app using :
+#### Run the app using :
 
 `$ docker-compose up --build --remove-orphans`
 
@@ -22,26 +22,26 @@ Above command will start the services on (-d) detach mode (similar like running 
 
 
 
-### Check all the images by running:
+#### Check all the images by running:
 
 `$ docker images`
 
 
-### Check all the containers by running:
+#### Check all the containers by running:
 
 `$ docker ps -a`
 
 
-### The App should be running at :
+#### The App should be running at :
 
 http://localhost:3000
 
 
-### To check the status of the running containers :
+#### To check the status of the running containers :
 
 `docker ps`
 
 
-### To kill and remove the container run following command
+#### To kill and remove the container run following command
 
 `docker-compose down`
