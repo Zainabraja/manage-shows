@@ -3,7 +3,7 @@
 Make a checklist of all the shows you've ever watched.
 
 
-### Prerequisites:
+## Prerequisites:
 
 You must have Docker Installed in your System !
 
