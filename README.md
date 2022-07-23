@@ -3,12 +3,12 @@
 Manage-shows is a MERN stack application. Make a checklist of all the shows you've ever watched. 
 
 
-## Prerequisites:
+## Prerequisites
 
 You must have Docker Installed on your System !
 
 
-## How to run the App :
+## Getting Started
 
 ### Run the app using :
 
