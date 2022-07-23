@@ -10,6 +10,12 @@ You must have Docker Installed on your System !
 
 ## Getting Started
 
+#### Clone the app:
+
+```
+git clone https://github.com/Zainabraja/manage-shows.git
+```
+
 #### Run the app using :
 
 ```
